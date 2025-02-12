@@ -2,6 +2,8 @@ import React from 'react';
 import img from '../images/web.svg'; 
 import img2 from '../images/app.svg';
 import img3 from '../images/hosting.svg';
+
+
 import img4 from '../images/consultation.svg';
 
 const Services = () => {
@@ -34,14 +36,33 @@ const Services = () => {
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img2} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center">Mobile App Development</h2>
+                                    <h2 className="font-semibold my-4 text-2xl text-center">App Development</h2>
                                     <p className="text-md font-medium">
                                         We develop high-quality, custom cross-platform mobile applications that are robust and optimized for performance, scalability, and accessibility.
                                     </p>
                                 </div>
                             </div>
 
+                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
+                                <div className="m-2 text-justify text-sm">
+                                    <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img3} />
+                                    <h2 className="font-semibold my-4 text-2xl text-center ">Graphic Designing</h2>
+                                    <p className="text-md font-medium">
+                                    We offer professional graphic design services to help individuals and businesses create a strong visual identity and stand out in the digital world.
+                                    </p>
+                                </div>
+                            </div>
+
                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
+                                <div className="m-2 text-justify text-sm">
+                                    <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img4} />
+                                    <h2 className="font-semibold my-4 text-2xl text-center ">Digital Marketing</h2>
+                                    <p className="text-md font-medium">
+                                    We provide digital marketing services to help businesses increase their online presence, attract more customers, and drive growth through targeted strategies and campaigns.                                    </p>
+                                </div>
+                            </div>
+
+                            {/* <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                     <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img3} />
                                     <h2 className="font-semibold my-4 text-2xl text-center ">Domain and Hosting Services</h2>
@@ -49,9 +70,9 @@ const Services = () => {
                                         We provide domain registration and web hosting services to individuals and organizations to enable them gain visibility in the digital space.
                                     </p>
                                 </div>
-                            </div>
+                            </div> */}
 
-                            <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
+                            {/* <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img4} />
                                     <h2 className="font-semibold my-4 text-2xl text-center ">General IT Consultations</h2>
@@ -59,7 +80,7 @@ const Services = () => {
                                         Our IT consultations service provides expert guidance and support for businesses and individuals looking to optimize their technology solutions.
                                     </p>
                                 </div>
-                            </div>                    
+                            </div>                     */}
                         </div>
                     </div>
             </section>
@@ -75,7 +96,7 @@ const Services = () => {
                             font-bold">We <span className='font-black'>Build</span></h3>
                             <div>
                                 <p className='my-3 text-xl text-gray-600 font-semibold'>
-                                    With over 10 years experience in software analysis and design and a deep understanding of the latest IT trends and solutions, we provide customized recommendations and strategies to help you improve your operations, reduce costs, and increase efficiency.
+                                With a fresh approach to the industry and a passion for innovation. We offer tailored strategies to help streamline your operations, boost your visibility, and create lasting impact, all while staying on top of the latest industry trends. Let us help you grow your business with cutting-edge solutions designed for success.
                                 </p>
                             </div>
                         </div>
@@ -85,7 +106,7 @@ const Services = () => {
                             </div>
                             <h3 className="text-3xl  text-blue-900 font-bold">We <span className='font-black'>Collaborate</span></h3>
                             <div>
-                                <p className='my-3 text-xl text-gray-600 font-semibold'>We can collaborate with your existing tech team to scale existing software applications or design customized software applications that suits your everyday need and simplifies various processes.</p>
+                                <p className='my-3 text-xl text-gray-600 font-semibold'>We can work alongside your existing team to enhance your current solutions or develop custom solutions specific to your needs. Our focus is on simplifying processes, improving efficiency, and providing seamless digital experiences. Let’s create solutions that fit perfectly into your workflow and help you achieve greater success.</p>
                             </div>
                         </div>
                     </div>

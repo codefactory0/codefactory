@@ -120,9 +120,9 @@ const DemoProduct = (props) => {
                     <form onSubmit={sendEmail} id="demoProductForm">
                         <div className="w-full bg-white p-8 my-4 md:px-12 lg:w-9/12 lg:pl-20 lg:pr-40 mr-auto rounded-2xl shadow-2xl">
                             <div className="flex">
-                                <h1 className="font-bold text-center lg:text-left text-blue-900 uppercase text-4xl">Demo our products</h1>
+                                <h1 className="font-bold text-center lg:text-left text-blue-900 uppercase text-4xl">Contact Us</h1>
                             </div>
-                            <div className="flex items-center my-4">
+                            {/* <div className="flex items-center my-4">
                                 <input 
                                     id="checkbox-1" 
                                     aria-describedby="checkbox-1" 
@@ -131,8 +131,8 @@ const DemoProduct = (props) => {
                                     value="business_management_system" onChange={handleChange}
                                  />
                                 <label htmlFor="checkbox-1" className="ml-3 text-lg font-medium text-gray-900">Business Management System</label>
-                            </div>
-                            <div className="flex items-center my-4">
+                            </div> */}
+                            {/* <div className="flex items-center my-4">
                                 <input 
                                     id="checkbox-1" 
                                     aria-describedby="checkbox-1" 
@@ -161,7 +161,7 @@ const DemoProduct = (props) => {
                                     value="event_management_system" onChange={handleChange}
                                 />
                                 <label htmlFor="checkbox-1" className="ml-3 text-lg font-medium text-gray-900">Event Management System</label>
-                            </div>
+                            </div> */}
                             {errors && 
                                 <p className="text-red-500 text-sm">{errors.products}</p>
                             }
@@ -256,7 +256,7 @@ const DemoProduct = (props) => {
                                 </div>
                                 <div className="flex flex-col">
                                     <h2 className="text-2xl">Office Address</h2>
-                                    <p className="text-gray-400">Ilo Awela, Ota, Ogun State</p>
+                                    <p className="text-gray-400">Ajman, United Arab Emirates</p>
                                 </div>
                             </div>
                             
@@ -267,11 +267,11 @@ const DemoProduct = (props) => {
 
                                 <div className="flex flex-col">
                                     <h2 className="text-2xl">Call Us</h2>
-                                    <p className="text-gray-400">Tel: 08055384406</p>
+                                    <p className="text-gray-400">Tel: </p>
                                 
                                     <div className='mt-5'>
                                         <h2 className="text-2xl">Send an E-mail</h2>
-                                        <p className="text-gray-400">info@mld.ng</p>
+                                        <p className="text-gray-400">codefactory.ae@gmail.com</p>
                                     </div>
                             
                                 </div>
