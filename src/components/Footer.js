@@ -13,7 +13,7 @@ const Footer = () => {
 
                     {/* 1st block */}
                     <div className="col-span-12 lg:col-span-4">
-                        <div className="box-border border-b-4 border-red-600 p-8 bg-gray-200 text-gray-600 text-center rounded-lg xl:w-80 mx-auto">
+                        <div className="box-border border-b-4 border-red-600 p-8 bg-gray-100 text-gray-600 text-center rounded-lg xl:w-80 mx-auto">
                             <h3 className="text-left font-bold text-4xl mb-4">Code Factory</h3>
                             <div className='text-left text-md font-medium text-gray-600 pb-2'>
                                 <h5 className='font-bold'>United Arab Emirates</h5>
