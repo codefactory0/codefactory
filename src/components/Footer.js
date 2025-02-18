@@ -15,13 +15,13 @@ const Footer = () => {
                     <div className="col-span-12 lg:col-span-4">
                         <div className="box-border border-b-4 border-red-600 p-8 bg-gray-100 text-gray-600 text-center rounded-lg xl:w-80 mx-auto">
                             <h3 className="text-left font-bold text-4xl mb-4">Code Factory</h3>
-                            <div className='text-left text-md font-medium text-gray-600 pb-2'>
+                            <div className='text-left text-md font-normal text-gray-600 pb-2'>
                                 <h5 className='font-bold'>United Arab Emirates</h5>
                                 <p>New Industrial Area one, Ajman - UAE</p>
                                 <p>+971-503621692</p>
                             </div>
 
-                            <div className='text-left text-md font-medium text-gray-600'>
+                            <div className='text-left text-md font-normal text-gray-600'>
                                 <h5 className='font-bold'>Pakistan</h5>
                                 <p>6th floor, 82 J1, Johar Town, Near Al-Fatah, Lahore.</p>
                                 <p>+92-3350626482</p>
