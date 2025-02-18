@@ -20,7 +20,7 @@ const Portfolio = () => {
                                 From initial concept design to deployment and ongoing support. We focused on delivering a high-performance website that drives engagement and sales.
                                 </p>
                                 {/* <div className="flex justify-center my-4">
-                                    <Link to="/get-demo" className="text-white bg-red-600 hover:bg-red-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
+                                    <Link to="/get-demo" className="text-white bg-red-600 hover:bg-red-600 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
                                         Visit
                                         <svg className="w-4 h-4 ml-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"><path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd"></path></svg>
                                     </Link>
@@ -34,7 +34,7 @@ const Portfolio = () => {
                                 <p className="text-md font-normal leading-5 h-auto ">
                                 Fabric Print is a leading online store offering a wide range of customized uniforms for various industries. Our team at Code Factory collaborated with the client to build an intuitive and efficient platform that simplifies the shopping process for businesses and individuals alike. We focused on delivering a responsive design, seamless navigation, driving growth and secure checkout to enhance user satisfaction.                                </p>
                                 <div className="flex justify-center my-4">
-                                    {/* <Link to="/get-demo" className="text-white bg-red-600 hover:bg-red-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
+                                    {/* <Link to="/get-demo" className="text-white bg-red-600 hover:bg-red-600 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
                                         Visit
                                         <svg className="w-4 h-4 ml-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"><path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd"></path></svg>
                                     </Link> */}
@@ -59,7 +59,7 @@ const Portfolio = () => {
                                 <p className="text-md font-normal leading-5 h-auto ">
                                 Apparel Factory is a premier e-commerce site specializing in high-quality custom clothing and accessories. We partnered with the client to design a visually appealing platform that offers a smooth and enjoyable shopping experience. Our approach focused on creating an easy-to-navigate interface, and a secure payment process. From concept to launch and ongoing maintenance, we ensured the website effectively meets customer needs while driving brand growth and engagement.                                </p>
                                 <div className="flex justify-center my-4">
-                                    {/* <Link to="/get-demo" className="text-white bg-red-600 hover:bg-red-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
+                                    {/* <Link to="/get-demo" className="text-white bg-red-600 hover:bg-red-600 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
                                         Visit
                                         <svg className="w-4 h-4 ml-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"><path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd"></path></svg>
                                     </Link> */}
@@ -73,7 +73,7 @@ const Portfolio = () => {
                                 <p className="text-md font-normal leading-5 h-auto ">
                                 Prints Factory is a cutting-edge online platform specializing in personalized printing solutions for various products. Our team at Code Factory collaborated with the client to develop a user-friendly website that streamlines the customization and ordering process. We focused on delivering a sleek design, intuitive navigation to enhance the user journey. From planning to deployment, we aimed to create a reliable e-commerce experience that boosts customer satisfaction and business growth.                                </p>
                                 <div className="flex justify-center my-4">
-                                    {/* <Link to="/get-demo" className="text-white bg-red-600 hover:bg-red-800 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
+                                    {/* <Link to="/get-demo" className="text-white bg-red-600 hover:bg-red-600 inline-flex items-center justify-center w-full px-6 py-3 my-4 text-lg shadow-xl rounded-xl">
                                         Visit
                                         <svg className="w-4 h-4 ml-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"><path fillRule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clipRule="evenodd"></path></svg>
                                     </Link> */}
