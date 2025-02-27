@@ -1,10 +1,8 @@
 import React from 'react';
-import img from '../images/web.svg'; 
-import img2 from '../images/app.svg';
-import img3 from '../images/hosting.svg';
-
-
-import img4 from '../images/consultation.svg';
+import img from '../images/Web Development.png'; 
+import img2 from '../images/App Development.png';
+import img4 from '../images/Digital Marketing.png';
+import img3 from '../images/Graphic Designing (1).png';
 
 const Services = () => {
 
@@ -23,7 +21,7 @@ const Services = () => {
                     <div className="px-12" data-aos="fade-down" data-aos-delay="600">
                         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-5">
                             
-                            <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
+                            <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-red-600 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img} />
                                     <h2 className="font-semibold my-4 text-2xl text-center">Web Development</h2>
@@ -33,7 +31,7 @@ const Services = () => {
                                 </div>
                             </div>
 
-                            <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
+                            <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-red-600 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img2} />
                                     <h2 className="font-semibold my-4 text-2xl text-center">App Development</h2>
@@ -43,7 +41,7 @@ const Services = () => {
                                 </div>
                             </div>
 
-                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
+                             <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-red-600 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                     <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img3} />
                                     <h2 className="font-semibold my-4 text-2xl text-center ">Graphic Designing</h2>
@@ -53,7 +51,7 @@ const Services = () => {
                                 </div>
                             </div>
 
-                            <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-gray-500 hover:text-white rounded-lg shadow-2xl p-3 group">
+                            <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-red-600 hover:text-white rounded-lg shadow-2xl p-3 group">
                                 <div className="m-2 text-justify text-sm">
                                     <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img4} />
                                     <h2 className="font-semibold my-4 text-2xl text-center ">Digital Marketing</h2>
@@ -61,26 +59,6 @@ const Services = () => {
                                     We provide digital marketing services to help businesses increase their online presence, attract more customers, and drive growth through targeted strategies and campaigns.                                    </p>
                                 </div>
                             </div>
-
-                            {/* <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-balck hover:text-white rounded-lg shadow-2xl p-3 group">
-                                <div className="m-2 text-justify text-sm">
-                                    <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img3} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center ">Domain and Hosting Services</h2>
-                                    <p className="text-md font-normal">
-                                        We provide domain registration and web hosting services to individuals and organizations to enable them gain visibility in the digital space.
-                                    </p>
-                                </div>
-                            </div> */}
-
-                            {/* <div className="bg-white transition-all ease-in-out duration-400  overflow-hidden text-gray-700 hover:bg-balck hover:text-white rounded-lg shadow-2xl p-3 group">
-                                <div className="m-2 text-justify text-sm">
-                                <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img4} />
-                                    <h2 className="font-semibold my-4 text-2xl text-center ">General IT Consultations</h2>
-                                    <p className="text-md font-normal">
-                                        Our IT consultations service provides expert guidance and support for businesses and individuals looking to optimize their technology solutions.
-                                    </p>
-                                </div>
-                            </div>                     */}
                         </div>
                     </div>
             </section>
