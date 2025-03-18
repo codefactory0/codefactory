@@ -29,7 +29,7 @@ const Services = () => {
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img6} />
                                     <h2 className="font-semibold my-4 text-2xl text-center">Wordpress Development</h2>
                                     <p className="text-md font-normal">
-                                        We specialize in creating and optimizing high-quality, custom websites for businesses and organizations of all sizes. Building mobile-friendly and easy-to-use websites and applications for clients.
+                                        Create a powerful online presence with custom WordPress websites tailored to your business. Enjoy responsive, easy-to-manage sites that deliver smooth performance, engaging user experiences, and optimized functionality across all devices.
                                     </p>
                                 </div>
                             </div>
@@ -39,7 +39,7 @@ const Services = () => {
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img5} />
                                     <h2 className="font-semibold my-4 text-2xl text-center">Shopify Development</h2>
                                     <p className="text-md font-normal">
-                                        We specialize in creating and optimizing high-quality, custom websites for businesses and organizations of all sizes. Building mobile-friendly and easy-to-use websites and applications for clients.
+                                        Build a standout e-commerce store with custom Shopify solutions. We craft responsive, easy-to-manage online stores that enhance the shopping experience, drive conversions, and provide seamless performance across all devices.
                                     </p>
                                 </div>
                             </div>
@@ -49,7 +49,7 @@ const Services = () => {
                                     <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img7} />
                                     <h2 className="font-semibold my-4 text-2xl text-center ">Search Engin Optimisation</h2>
                                     <p className="text-md font-normal">
-                                    We offer professional graphic design services to help individuals and businesses create a strong visual identity and stand out in the digital world.
+                                    Enhance your online visibility with expert SEO services. We optimize your website to improve search engine rankings, drive organic traffic, and ensure your business reaches the right audience for maximum growth.
                                     </p>
                                 </div>
                             </div>
@@ -59,7 +59,8 @@ const Services = () => {
                                     <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img4} />
                                     <h2 className="font-semibold my-4 text-2xl text-center ">Digital Marketing</h2>
                                     <p className="text-md font-normal">
-                                    We provide digital marketing services to help businesses increase their online presence, attract more customers, and drive growth through targeted strategies and campaigns.                                    </p>
+                                        Boost your brand’s online presence with tailored digital marketing services. From social media management to targeted ads, we create strategies that increase engagement, drive traffic, and deliver measurable results for your business.
+                                    </p>
                                 </div>
                             </div>
 
@@ -68,7 +69,7 @@ const Services = () => {
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img} />
                                     <h2 className="font-semibold my-4 text-2xl text-center">Web Development</h2>
                                     <p className="text-md font-normal">
-                                        We specialize in creating and optimizing high-quality, custom websites for businesses and organizations of all sizes. Building mobile-friendly and easy-to-use websites and applications for clients.
+                                    Transform your ideas into a dynamic online presence with expert web development services. We build custom, scalable websites that are visually appealing, user-friendly, and optimized for performance across all devices.
                                     </p>
                                 </div>
                             </div>
@@ -98,7 +99,7 @@ const Services = () => {
                                     <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img3} />
                                     <h2 className="font-semibold my-4 text-2xl text-center ">Graphic Designing</h2>
                                     <p className="text-md font-normal">
-                                    We offer professional graphic design services to help individuals and businesses create a strong visual identity and stand out in the digital world.
+                                        Create visually stunning designs that capture your brand’s essence with our graphic design services. From logos to marketing materials, we craft unique, impactful visuals that engage your audience and elevate your brand.
                                     </p>
                                 </div>
                             </div>                        
