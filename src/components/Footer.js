@@ -29,26 +29,23 @@ const Footer = () => {
                         </div>
                     </div>
 
-                    {/* 2nd block */}
-                    {/* <div className="col-span-6 md:col-span-6 lg:col-span-1 ml-7 mx-auto">
-                        <h6 className="text-[#013289] text-xl font-bold mb-4">LINKS</h6>
-                        <ul className="text-md">
-                        <li className="mb-2">
-                            <HashLink to="#" className="text-[#013289] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">About</HashLink>
-                        </li>
-                        <li className="mb-2">
-                            <HashLink to="#" className="text-[#013289] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Services</HashLink>
-                        </li>
-                        <li className="mb-2">
-                            <HashLink to="#" className="text-[#013289] hover:text-gray-900 hover:tracking-wider transition duration-250 ease-in-out">Contact</HashLink>
-                        </li>                            
-                        </ul>
-                    </div> */}
 
                     {/* 3rd block */}
                     <div className="col-span-6 md:col-span-6 lg:col-span-4 mx-auto">
                         <h6 className="text-black text-xl font-bold mb-4">OUR SERVICES</h6>
                         <ul className="text-md">
+                        <li className="mb-2">
+                            <Link to="#" className="text-black hover:text-gray-900 transition duration-250 ease-in-out">Wordpress Development</Link>
+                        </li>
+                        <li className="mb-2">
+                            <Link to="#" className="text-black hover:text-gray-900 transition duration-250 ease-in-out">Shopify Development</Link>
+                        </li>
+                        <li className="mb-2">
+                            <Link to="#" className="text-black hover:text-gray-900 transition duration-250 ease-in-out">Digital Marketing</Link>
+                        </li>
+                        <li className="mb-2">
+                            <Link to="#" className="text-black hover:text-gray-900 transition duration-250 ease-in-out">Search Engin Optimisation</Link>
+                        </li>
                         <li className="mb-2">
                             <Link to="#" className="text-black hover:text-gray-900 transition duration-250 ease-in-out">Web Development</Link>
                         </li>
@@ -59,7 +56,7 @@ const Footer = () => {
                             <Link to="#" className="text-black hover:text-gray-900 transition duration-250 ease-in-out">Graphic Designing</Link>
                         </li>
                         <li className="mb-2">
-                            <Link to="#" className="text-black hover:text-gray-900 transition duration-250 ease-in-out">Digital Marketing</Link>
+                            <Link to="#" className="text-black hover:text-gray-900 transition duration-250 ease-in-out">Social Media Management</Link>
                         </li>
                         </ul>
                     </div>
