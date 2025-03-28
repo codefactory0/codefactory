@@ -18,7 +18,7 @@ const Footer = () => {
                             <div className='text-left text-md font-normal text-black pb-2'>
                                 <h5 className='font-bold'>United Arab Emirates</h5>
                                 <p>New Industrial Area one, Ajman - UAE</p>
-                                <p>+971-503621692</p>
+                                <p>+971-585683615</p>
                             </div>
 
                             <div className='text-left text-md font-normal text-black'>
